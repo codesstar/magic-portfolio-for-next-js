@@ -1,7 +1,7 @@
 import { InlineCode } from "@/once-ui/components";
 
 const person = {
-  firstName: "Selene",
+  firstName: "Selene22",
   lastName: "Yu",
   get name() {
     return `${this.firstName} ${this.lastName}`;
@@ -89,7 +89,7 @@ const about = {
   },
   work: {
     display: true, // set to false to hide this section
-    title: "Work Experience",
+    title: "Work Experience23",
     experiences: [
       {
         company: "FLY",
