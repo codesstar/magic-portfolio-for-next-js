@@ -52,11 +52,10 @@ const home = {
   label: "Home",
   title: `${person.name}'s Portfolio`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
-  headline: <>Design engineer and builder</>,
+  headline: <>Neaxaura</>,
   subline: (
     <>
-      I'm Selene, a design engineer at <InlineCode>FLY</InlineCode>, where I craft intuitive
-      <br /> user experiences. After hours, I build my own projects.
+    前AI独角兽工程师、谷歌Ads专家和3C品牌营销领袖组建的精英团队，专注提供谷歌SEO优化咨询、独立站建设和全方位内容本地化服务。我们融合尖端技术与营销专长，助力您的业务在全球数字市场中脱颖而出。
     </>
   ),
 };
