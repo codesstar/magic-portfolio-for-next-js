@@ -48,17 +48,21 @@ const social = [
   },
 ];
 
+// ... existing code ...
+
 const home = {
   label: "Home",
-  title: `${person.name}'s Portfolio`,
-  description: `Portfolio website showcasing my work as a ${person.role}`,
-  headline: <>Neaxaura</>,
+  title: "提供专业独立站建站与SEO优化服务，提升您的全球线上业务表现 - Nexaura",
+  description: "Nexaura提供专业的独立站建站和SEO优化服务，助您打造高转化率的独立站。我们的定制化解决方案帮助企业提升谷歌搜索引擎排名，增加自然流量，实现业务持续增长。",
+  headline: <>Nexaura</>,
   subline: (
     <>
     前AI独角兽工程师、谷歌Ads专家和3C品牌营销领袖组建的精英团队，专注提供谷歌SEO优化咨询、独立站建设和全方位内容本地化服务。我们融合尖端技术与营销专长，助力您的业务在全球数字市场中脱颖而出。
     </>
   ),
 };
+
+// ... rest of the code ...
 
 const about = {
   label: "About",
